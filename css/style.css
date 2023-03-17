@@ -152,4 +152,33 @@ img {
         align-items: center;
     }
 
+    .lessons .col {
+        width: 100%;
+        margin-bottom: 3rem;
+    }
+
+    .steps .col {
+        width: 100%;
+        margin-bottom: 3rem;
+    }
+
+    .steps .col img {
+        width: 100%;
+    }
+
+    .why-us {
+        margin-top: -3rem;
+        padding-top: 3rem;
+        background-color: rgb(34,34,34);
+    }
+
+    .why-us .col-left {
+        width: 100%;
+        margin-bottom: 3rem;
+    }
+
+    .why-us .col-right {
+        width: 100%;
+    }
+
 }
