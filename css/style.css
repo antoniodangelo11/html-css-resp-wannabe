@@ -128,38 +128,28 @@ img {
     SOLUZIONE RESPONSIVE
  ************************************************/
 
-@media (max-width: 1160px)   {
+@media screen and (max-width: 1160px)   {
     
     .container {
         width: 100%;
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: center;
     }
 
 }
 
-@media (max-width: 768px)    {
+@media screen and (max-width: 768px)    {
 
     .container {
         width: 100%;
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: center;
     }
 
 }
 
-@media (max-width: 480px)    {
+@media screen and (max-width: 480px)    {
 
-    .container  {
-        width: 100%;
+    .row {
         display: flex;
-        flex-wrap: wrap;
         flex-direction: column;
         align-items: center;
-        justify-content: center;
     }
 
-    
 }
