@@ -156,16 +156,13 @@ img {
         align-items: center;
     }
 
-    .lessons .col {
-        width: 100%;
-        margin-bottom: 3rem;
-    }
-
+    .lessons .col, 
     .steps .col {
         width: 100%;
         margin-bottom: 3rem;
     }
 
+    .why-us .col-right,
     .steps .col img {
         width: 100%;
     }
@@ -179,10 +176,6 @@ img {
     .why-us .col-left {
         width: 100%;
         margin-bottom: 3rem;
-    }
-
-    .why-us .col-right {
-        width: 100%;
     }
 
 }
